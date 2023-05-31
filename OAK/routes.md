@@ -1,0 +1,133 @@
+/U No DME
+/A DME
+/G GPS Non-RVSM
+
+/L RVSM + /G
+
+
+## LAS
+
+Props /G
+``
+
+Props /U
+Non Jet into LAS?
+
+Jet /G /L
+```CNDL5.NTELL Q174 FLCHR.COKTL2``` AOB FL310
+
+Jet /U /A
+```OAK5 LIN J84 BABIT J92 BTY.PUMLE1``` AOB FL290
+
+
+--
+## BUR
+
+Props /G
+
+```NUEVO8.SNS V248 EHF.WEESL STAR```
+
+Props /U /A
+
+```? ```
+
+Jet /G /L
+```CNDEL5.KTINA CISKO RDHOT.ROKKR2 STAR``` AOB FL310
+
+Jet /U /A
+```SKYL1.AVE V248 EHF.WEESL STAR``` AOB FL310
+
+## SAN
+
+Props /G
+
+```..LAX.HUBRD```
+
+Props /U /A
+``` ``` 
+
+Jet /G /L
+
+`CNDEL5.YYUNG LAX COMIX STAR`
+
+Jet /U /A
+
+```COAST9 MCKEY LAX COMIX STAR```
+
+
+## LAX
+
+Props /G
+
+```NUEVO8.SNS V248 EHF.WAYVE1 STAR```
+
+Props
+
+```NUEVO8.SNS V248 EHF.KIMMO3 STAR```
+
+Jet /G /L
+
+`CNDEL5.SUSEY EBAYE BURGLE.IRNMN2 STAR`
+
+Jet /U /A
+
+```COAST9 MCKEY AVE.MOOR4 STAR``` MoorPark Arrival
+
+## SNA
+
+Props
+
+```NUEVO8.SNS V25 VTU V27 SXC```
+
+Jet /G /L
+
+`CNDEL5.KTINA CISKO RDHOT TILLT2 STAR`
+
+`CNDEL5.YYUNG TILLT2 STAR`
+
+Jet /U /A
+
+```COAST9.SXC```
+
+## SEA
+Prop /G
+
+```NIMI5 SGD T263 JITIM RBL LMT.HAWKZ7```
+
+Prop /U /A
+
+```NIMI5 SGD V195 RBL V23 BTG.OLM2 STAR``` 
+
+Jet /G /L
+
+```OAK5 DEDHD RBL LMT.HAWKZ7```
+
+Jet /U /A
+
+```OAK5 SGD J1 BTG.OLM2 STAR```
+
+## PDX
+
+Prop /G
+
+```NIMI5 GRTFL MACHU.TMBRS2``` ???
+
+Prop /U /A
+
+```NIMI5 ENI V199 RBL V23 OED.OCITY3``` 
+
+Jet /G /L
+
+```OAK5 GRTFL MACHU.TMBRS2``` Seems better to skip ENI
+
+Jet /U /A
+
+```OAK5 ENI V199 RBL V23 OED.OCITY3```
+
+## SLC
+
+Jet /G /L
+```OAK5 MOGEE Q124 BVL```
+
+Jet /U /A
+```OAK5 SAC J32 FMG J7 REO``` REO Seems very out of the way
