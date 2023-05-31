@@ -1,8 +1,10 @@
 /U No DME
 /A DME
 /G GPS Non-RVSM
+/I LORAN, VOR/DME, or INS Mode C
 
 /L RVSM + /G
+/Z RVSM + /I
 
 
 ## LAS
