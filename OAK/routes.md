@@ -3,6 +3,8 @@
 |/U |No DME|
 |/A |DME|
 |/G |GPS Non-RVSM|
+|/I |LORAN, VOR/DME, or INS Mode C|
+|RVSM|
 |/L |RVSM + /G|
 |/W |RVSM + /A|
 |/Z |RVSM + /I|
