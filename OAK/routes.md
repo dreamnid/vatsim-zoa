@@ -4,8 +4,8 @@
 |/A |DME|
 |/G |GPS Non-RVSM|
 |/L |RVSM + /G|
-|/W  |RVSM + /A|
-/Z RVSM + /I
+|/W |RVSM + /A|
+|/Z |RVSM + /I|
 
 
 ### LAS
