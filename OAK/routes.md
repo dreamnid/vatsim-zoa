@@ -1,4 +1,3 @@
-
 | Code | Description |
 |--| --|
 |/U |No DME|
@@ -6,6 +5,7 @@
 |/G |GPS Non-RVSM|
 |/L |RVSM + /G|
 |/W  |RVSM + /A|
+/Z RVSM + /I
 
 
 ### LAS
@@ -70,7 +70,7 @@ Props
 
 Jet /G /L
 
-`CNDEL5.SUSEY EBAYE BURGLE.IRNMN2 STAR`
+`CNDEL5.SUSEY EBAYE BURGL.IRNMN2 STAR`
 
 Jet /U /A
 
