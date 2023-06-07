@@ -1,11 +1,14 @@
-/U No DME
-/A DME
-/G GPS Non-RVSM
 
-/L RVSM + /G
+| Code | Description |
+|--| --|
+|/U |No DME|
+|/A |DME|
+|/G |GPS Non-RVSM|
+|/L |RVSM + /G|
+|/W  |RVSM + /A|
 
 
-## LAS
+### LAS
 
 Props /G
 ``
@@ -21,7 +24,7 @@ Jet /U /A
 
 
 --
-## BUR
+### BUR
 
 Props /G
 
@@ -37,11 +40,11 @@ Jet /G /L
 Jet /U /A
 ```SKYL1.AVE V248 EHF.WEESL STAR``` AOB FL310
 
-## SAN
+### SAN
 
 Props /G
 
-```..LAX.HUBRD```
+```NUEVO8.SNS..LAX.HUBRD```
 
 Props /U /A
 ``` ``` 
@@ -55,7 +58,7 @@ Jet /U /A
 ```COAST9 MCKEY LAX COMIX STAR```
 
 
-## LAX
+### LAX
 
 Props /G
 
@@ -73,7 +76,7 @@ Jet /U /A
 
 ```COAST9 MCKEY AVE.MOOR4 STAR``` MoorPark Arrival
 
-## SNA
+### SNA
 
 Props
 
@@ -89,7 +92,7 @@ Jet /U /A
 
 ```COAST9.SXC```
 
-## SEA
+### SEAn
 Prop /G
 
 ```NIMI5 SGD T263 JITIM RBL LMT.HAWKZ7```
@@ -106,7 +109,7 @@ Jet /U /A
 
 ```OAK5 SGD J1 BTG.OLM2 STAR```
 
-## PDX
+### PDX
 
 Prop /G
 
@@ -124,7 +127,7 @@ Jet /U /A
 
 ```OAK5 ENI V199 RBL V23 OED.OCITY3```
 
-## SLC
+### SLC
 
 Jet /G /L
 ```OAK5 MOGEE Q124 BVL```
