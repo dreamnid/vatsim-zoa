@@ -64,7 +64,7 @@ Props /G
 
 ```NUEVO8.SNS V248 EHF.WAYVE1 STAR```
 
-Props
+Props /U /A
 
 ```NUEVO8.SNS V248 EHF.KIMMO3 STAR```
 
@@ -92,7 +92,7 @@ Jet /U /A
 
 ```COAST9.SXC```
 
-### SEAn
+### SEA
 Prop /G
 
 ```NIMI5 SGD T263 JITIM RBL LMT.HAWKZ7```
