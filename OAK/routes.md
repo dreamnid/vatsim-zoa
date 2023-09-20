@@ -134,5 +134,20 @@ Jet /U /A
 Jet /G /L
 ```OAK5 MOGEE Q124 BVL```
 
+### PHX
+
+Prop /G
+
+```NUEVO8.AVE V137 PSP V16 AVONA``` 
+
+Prop /U /A
+
+```NUEVO8.AVE V137 PSP V16 BLH.BLH5``` Blythe Arrival 
+
+Jet /G /L
+
+```CNDEL5.KAYEX LOSHN BOILE BLH HYDRR1```
+
 Jet /U /A
-```OAK5 SAC J32 FMG J7 REO``` REO Seems very out of the way
+
+```SKYL1.AVE J65 BLH.ARLIN4```
