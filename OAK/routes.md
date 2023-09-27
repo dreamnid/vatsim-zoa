@@ -134,6 +134,17 @@ Jet /U /A
 Jet /G /L
 ```OAK5 MOGEE Q124 BVL```
 
+Jet /U /A
+```OAK5 SAC J32 BAM J154 BVL.BVL2```
+
+### JAC
+
+Jet /G /L
+```OAK5 RBUCL Q138 PARZZ Q121 PIH```
+
+Jet /U /A
+```OAK5 SAC J32 MLD```
+
 ### PHX
 
 Prop /G
