@@ -18,14 +18,40 @@ Props /G
 Props /U
 Non Jet into LAS?
 
+TurboProp
+See HND Jets
+
 Jet /G /L
 ```CNDL5.NTELL Q174 FLCHR.COKTL2``` AOB FL310
 
 Jet /U /A
 ```OAK5 LIN J84 BABIT J92 BTY.PUMLE1``` AOB FL290
 
+### HND
+Jet /G /L
+```CNDL5.NTELL Q174 FUULL.GAMES2 STAR``` AOB FL310
+
+JET /U /A /W
+```OAK5 LIN J84 BABIT J92 BTY.PUMLE1``` AOB FL290
 
 --
+### SBA
+Jet
+```COAST9.GVO HABUT```
+```..SNS J88 RZS```
+
+### SBP
+Prop /A
+```NUEVO8.SNS V25 PRB V113 MQO```
+```NUEVO8.SNS V248 PRB V113 MQO```
+
+Jet /U /A /W
+```COAST9 MQO```
+
+RNAV 
+```.CREPE.```
+```.CADAB.```
+
 ### BUR
 
 Props /G
