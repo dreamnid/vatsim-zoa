@@ -1,0 +1,63 @@
+| Code | Description |
+|--| --|
+|/U |No DME|
+|/A |DME|
+|/G |GPS Non-RVSM|
+|/I |LORAN, VOR/DME, or INS Mode C|
+|RVSM|
+|/L |RVSM + /G|
+|/W |RVSM + /A|
+|/Z |RVSM + /I|
+
+
+### PRB
+Prop /A
+```OSI V25 PRB``` 7000
+```OSI EUGEN V27 BSR PRB``` >7000
+
+### SBA
+Prop /A
+```OSI V25 RZS``` 7000
+```OSI EUGEN V27 GVO HABUT``` >7000
+
+### SBP
+/A
+```OSI V25 SNS V248 PRB``` 7000
+```OSI EUGEN V27 MQO``` >7000
+
+### SMX
+/A
+```OSI V25 SNS V248 PRB``` 7000
+```OSI EUGEN V27 MQO``` or ```OSI EUGEN V27 BSR MQO``` >7000
+
+### BFL
+/A
+```OSI V25 PRB V248 AVE``` 7000
+```OSI EUGEN V27 V27 BSR AVE EHF``` or ```OSI EUGEN V27 BSR AVE``` >7000
+
+/G
+```OSI V25 SNS LKHRN AVE``` 7000
+
+### VNY
+Prop /A
+```OSI EUGEN V27 BSR AVE LHS``` 9000
+
+TurboProp /A
+```OSI EUGEN V27 BSR MQO RZS OHIGH``` 9000
+
+TurboProp /G
+```OSI EUGEN V27 BSR AVE EHF WEESL1``` 9000 AOB FL230
+
+### SMO
+Prop /A
+```KSQL OSI EUGEN V27 BSR PRB FIM V186 VNY DARTS``` 9000 LAXW 
+
+TurboProp /G
+```OSI EUGEN V27 BSR AVE EHF WAYVE1``` AOB FL230
+TurboProp /A
+```OSI EUGEN V27 BSR AVE EHF KIMMO3``` AOB FL230
+
+### SNA
+Prop /A
+``````
+``````
