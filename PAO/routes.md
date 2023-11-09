@@ -11,15 +11,33 @@
 
 
 ### SBA
+Prop /G
+```SJC SNS GVO``` 9000
+
 Prop /A
-```SJC SNS GVO```
+```SJC SNS V25 PRB GVO``` or ```SJC SNS V25 PRB V113 MQO V27 GVO``` 7000
+
+TurboProp /A
+```SJC SNS J88 RZS```
 
 ### SBP
 Prop /A
-```SJC SNS V25 PRB```
+```SJC SNS V25 PRB``` 7000
 
 Prop /G
-```LICKE LKHRN PRB```
+```LICKE LKHRN PRB``` 7000
+
+TurboJet - After PRB,
+```..CREPE``` or ```..MQO``` - SBPE or /A
+
+```..CADAB``` - SBPW /G
+
+### SMX
+/A
+```SJC SNS V25 PRB MQO``` 7000
+
+/G
+```LICKE LKHRN PRB MQO``` 7000
 
 ### VNY
 Prop /A
