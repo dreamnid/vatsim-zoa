@@ -38,9 +38,10 @@ JET /U /A /W
 ### SBA
 Jet
 ```COAST9.GVO HABUT```
+
 ```..SNS J88 RZS```
 
-Turbo
+TurboProp /A
 ```NUEVO8.SHOEY BSR V27 GVO HABUT```
 
 ### SBP
