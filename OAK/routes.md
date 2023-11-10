@@ -40,6 +40,9 @@ Jet
 ```COAST9.GVO HABUT```
 ```..SNS J88 RZS```
 
+Turbo
+```NUEVO8.SHOEY BSR V27 GVO HABUT```
+
 ### SBP
 Prop /A
 ```NUEVO8.SNS V25 PRB V113 MQO```
