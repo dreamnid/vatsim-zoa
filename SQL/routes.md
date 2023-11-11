@@ -88,3 +88,15 @@ TurboProp /A
 ```OSI EUGEN V27 BSR AVE EHF.KIMMO3```
 
 Props - Use same as Turboprop - 11000
+
+### SAN
+Turbo Jet/Prop /G
+```OSI EUGEN V27 BSR LAX.COMIX2``` SANW
+
+```OSI EUGEN V27 BSR LAX.PLYYA1``` SANE
+
+Turbo Jet/Prop /A
+```OSI EUGEN V27 BSR LAX.HUBRD1``` SANW
+
+```OSI EUGEN V27 BSR LAX.SHAMU1``` SANE
+
