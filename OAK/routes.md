@@ -102,6 +102,10 @@ Jet /U /A /W
 
 ```COAST9 MCKEY LAX.HUBRD1 STAR```
 
+### CRQ
+
+Turbo /G
+```NUEVO8 SHOEY TILLT LEGOZ2 STAR```
 
 ### LAX
 
