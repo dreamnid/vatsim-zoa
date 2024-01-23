@@ -18,8 +18,8 @@ Props /G
 Props /U
 Non Jet into LAS?
 
-TurboProp
-See HND Jets
+TurboProp /G
+```NIMI5 NTELL Q174 FUULL.GAMES2``` AOB FL310
 
 Jet /G /L
 ```CNDL5.NTELL Q174 FLCHR.COKTL2``` AOB FL310
